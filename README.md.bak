@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cfbb8ff2-790b-4f33-95d0-3274ee6fefe4/deploy-status)](https://app.netlify.com/sites/nuxt-yedpro/deploys)
-
 ## Build Setup
 
 ``` bash
