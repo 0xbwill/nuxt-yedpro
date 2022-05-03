@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tarifs", {data:[{}],fetch:[],mutations:void 0});
